@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gostad</string>
+    <string name="title_beranda">Beranda</string>
+    <string name="title_pesanan">Pesanan</string>
+    <string name="title_akun">Akun</string>
+    <string name="tv_login">Masukkan nomor handphone atau email yang terdaftar untuk login</string>
+    <string name="tv_login_register">Tidak punya akun?</string>
+    <string name="tv_register_login">Sudah punya akun?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
